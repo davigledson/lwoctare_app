@@ -31,7 +31,7 @@
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <div class="carousel-image-wrap">
-                                            <img src="images/slide/jay-wennington-N_Y88TWmGwA-unsplash.jpg" class="img-fluid carousel-image" alt="">
+                                            <img src="site_images/slide/jay-wennington-N_Y88TWmGwA-unsplash.jpg" class="img-fluid carousel-image" alt="">
                                         </div>
                                         
                                         <div class="carousel-caption">
@@ -46,7 +46,7 @@
 
                                     <div class="carousel-item">
                                         <div class="carousel-image-wrap">
-                                            <img src="images/slide/jason-leung-O67LZfeyYBk-unsplash.jpg" class="img-fluid carousel-image" alt="">
+                                            <img src="site_images/slide/jason-leung-O67LZfeyYBk-unsplash.jpg" class="img-fluid carousel-image" alt="">
                                         </div>
                                         
                                         <div class="carousel-caption">
@@ -72,7 +72,7 @@
 
                                     <div class="carousel-item">
                                         <div class="carousel-image-wrap">
-                                            <img src="images/slide/ivan-torres-MQUqbmszGGM-unsplash.jpg" class="img-fluid carousel-image" alt="">
+                                            <img src="site_images/slide/ivan-torres-MQUqbmszGGM-unsplash.jpg" class="img-fluid carousel-image" alt="">
                                         </div>
                                         
                                         <div class="carousel-caption">
@@ -114,7 +114,7 @@
 
                 <div class="video-wrap">
                     <video autoplay="" loop="" muted="" class="custom-video" poster="">
-                        <source src="video/production_ID_3769033.mp4" type="video/mp4">
+                        <source src="site_video/production_ID_3769033.mp4" type="site_video/mp4">
                         	Your browser does not support the video tag.
                     	</video>
                 </div>
@@ -133,7 +133,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="menu-thumb">
                                 <div class="menu-image-wrap">
-                                    <img src="images/breakfast/brett-jordan-8xt8-HIFqc8-unsplash.jpg" class="img-fluid menu-image" alt="">
+                                    <img src="site_images/breakfast/brett-jordan-8xt8-HIFqc8-unsplash.jpg" class="img-fluid menu-image" alt="">
 
                                     <span class="menu-tag bg-warning">Breakfast</span>
                                 </div>
@@ -163,7 +163,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="menu-thumb">
                                 <div class="menu-image-wrap">
-                                    <img src="images/lunch/farhad-ibrahimzade-MGKqxm6u2bc-unsplash.jpg" class="img-fluid menu-image" alt="">
+                                    <img src="site_images/lunch/farhad-ibrahimzade-MGKqxm6u2bc-unsplash.jpg" class="img-fluid menu-image" alt="">
 
                                     <span class="menu-tag bg-warning">Lunch</span>
                                 </div>
@@ -193,7 +193,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="menu-thumb">
                                 <div class="menu-image-wrap">
-                                    <img src="images/dinner/keriliwi-c3mFafsFz2w-unsplash.jpg" class="img-fluid menu-image" alt="">
+                                    <img src="site_images/dinner/keriliwi-c3mFafsFz2w-unsplash.jpg" class="img-fluid menu-image" alt="">
 
                                     <span class="menu-tag bg-warning">Dinner</span>
                                 </div>
@@ -225,7 +225,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="menu-thumb">
                                 <div class="menu-image-wrap">
-                                    <img src="images/dinner/farhad-ibrahimzade-ZipYER3NLhY-unsplash.jpg" class="img-fluid menu-image" alt="">
+                                    <img src="site_images/dinner/farhad-ibrahimzade-ZipYER3NLhY-unsplash.jpg" class="img-fluid menu-image" alt="">
 
                                     <span class="menu-tag bg-warning">Dinner</span>
                                 </div>
@@ -257,7 +257,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="menu-thumb">
                                 <div class="menu-image-wrap">
-                                    <img src="images/breakfast/louis-hansel-dphM2U1xq0U-unsplash.jpg" class="img-fluid menu-image" alt="">
+                                    <img src="site_images/breakfast/louis-hansel-dphM2U1xq0U-unsplash.jpg" class="img-fluid menu-image" alt="">
 
                                     <span class="menu-tag bg-warning">Breakfast</span>
                                 </div>
@@ -287,7 +287,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="menu-thumb">
                                 <div class="menu-image-wrap">
-                                    <img src="images/lunch/farhad-ibrahimzade-D5c9ZciQy_I-unsplash.jpg" class="img-fluid menu-image" alt="">
+                                    <img src="site_images/lunch/farhad-ibrahimzade-D5c9ZciQy_I-unsplash.jpg" class="img-fluid menu-image" alt="">
 
                                     <span class="menu-tag bg-warning">Lunch</span>
                                 </div>
@@ -329,7 +329,7 @@
                         <div class="col-lg-6 col-md-6 col-12">
                             <div class="news-thumb mb-4">
                                 <a href="news-detail.html">
-                                    <img src="images/news/pablo-merchan-montes-Orz90t6o0e4-unsplash.jpg" class="img-fluid news-image" alt="">
+                                    <img src="site_images/news/pablo-merchan-montes-Orz90t6o0e4-unsplash.jpg" class="img-fluid news-image" alt="">
                                 </a>
                                 
                                 <div class="news-text-info news-text-info-large">
@@ -345,7 +345,7 @@
                         <div class="col-lg-6 col-md-6 col-12">
                             <div class="news-thumb mb-4">
                                 <a href="news-detail.html">
-                                    <img src="images/news/stefan-johnson-xIFbDeGcy44-unsplash.jpg" class="img-fluid news-image" alt="">
+                                    <img src="site_images/news/stefan-johnson-xIFbDeGcy44-unsplash.jpg" class="img-fluid news-image" alt="">
                                 </a>
                                 
                                 <div class="news-text-info news-text-info-large">
@@ -361,7 +361,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="news-thumb mb-lg-0 mb-lg-4 mb-0">
                                 <a href="news-detail.html">
-                                    <img src="images/news/gilles-lambert-S_LhjpfIdm4-unsplash.jpg" class="img-fluid news-image" alt="">
+                                    <img src="site_images/news/gilles-lambert-S_LhjpfIdm4-unsplash.jpg" class="img-fluid news-image" alt="">
                                 </a>
                                 
                                 <div class="news-text-info">
@@ -379,7 +379,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="news-thumb mb-lg-0 mb-lg-4 mb-2">
                                 <a href="news-detail.html">
-                                    <img src="images/news/caroline-attwood-bpPTlXWTOvg-unsplash.jpg" class="img-fluid news-image" alt="">
+                                    <img src="site_images/news/caroline-attwood-bpPTlXWTOvg-unsplash.jpg" class="img-fluid news-image" alt="">
                                 </a>
                                 
                                 <div class="news-text-info">
@@ -395,7 +395,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="news-thumb mb-4">
                                 <a href="news-detail.html">
-                                    <img src="images/news/louis-hansel-GiIiRV0FjwU-unsplash.jpg" class="img-fluid news-image" alt="">
+                                    <img src="site_images/news/louis-hansel-GiIiRV0FjwU-unsplash.jpg" class="img-fluid news-image" alt="">
                                 </a>
                                 
                                 <div class="news-text-info">
