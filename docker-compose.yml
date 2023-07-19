@@ -1,0 +1,14 @@
+version: '3.5'
+
+services:
+  myapp:
+      container_name: lwoctane_app
+      image: giovanegurgel/lwoctane_app
+      restart: always
+      environment:
+        - CHOKIDAR_USEPOLLING=true
+      ports:
+        - '8086:8000'
+      volumes:
+        - './my-project:/app'
+        - './docker/php.ini:/opt/bitnami/php/etc/php.ini'
